@@ -31,3 +31,5 @@ gems:
 
 permalink:   pretty
 keep_files: [/js, /js/lunr.min.js, /javascripts, _site/search_data.json, search_data.json, Gemfile, Gemfile.lock]
+
+exclude: [_includes]

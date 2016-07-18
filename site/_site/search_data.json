@@ -1,0 +1,453 @@
+{
+
+  "1-squirrelu-3-contributeviaide-0-summary": {
+  "title": "Contributing to Squirrel U with an IDE",
+  "url":   "/1_SquirrelU/3_ContributeViaIDE/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "\n"
+}
+,
+
+  "1-squirrelu-0-summary": {
+  "title": "Squirrel University Orientation",
+  "url":   "/1_SquirrelU/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "\n"
+}
+,
+
+  "1-squirrelu-5-nuts-0-summary": {
+  "title": "Nuts",
+  "url":   "/1_SquirrelU/5_Nuts/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "\n"
+}
+,
+
+  "1-squirrelu-4-github-0-summary": {
+  "title": "Version Control System",
+  "url":   "/1_SquirrelU/4_GitHub/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "\n"
+}
+,
+
+  "1-squirrelu-4-github-5-gittools-0-summary": {
+  "title": "Git Productivity Tools",
+  "url":   "/1_SquirrelU/4_GitHub/5_gitTools/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "Introduction This section covers various tools that you can use to interact and improve your skills with GitHub. Prerequisites None..."
+}
+,
+
+  "1-squirrelu-4-github-5-gittools-2-githubwebsite-0-summary": {
+  "title": "Working with the GitHub website",
+  "url":   "/1_SquirrelU/4_GitHub/5_gitTools/2_GitHubWebsite/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "\n"
+}
+,
+
+  "1-squirrelu-4-github-5-gittools-1-gitintellij-0-summary": {
+  "title": "Working with GitHub via IntelliJ",
+  "url":   "/1_SquirrelU/4_GitHub/5_gitTools/1_GitIntelliJ/0_Summary/",
+  "author": "",
+  "tags": "GitHub, IntelliJ",
+  "category": "",
+  "excerpt": "Introduction Now that you're familiar with basic Git commands, you're probably interested in how you can use IntelliJ to interact..."
+}
+,
+
+  "1-squirrelu-2-orientation-0-summary": {
+  "title": "About Squirrel U",
+  "url":   "/1_SquirrelU/2_Orientation/0_Summary/",
+  "author": "Zippy",
+  "tags": "motivation, goals, purpose, jive, approach, strategy, definition of done",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites The Motivation - Why Squirrel U? Squirrel U Goals In which areas should/can I contribute? What is..."
+}
+,
+
+  "1-squirrelu-4-github-2-basicconcepts-0-summary": {
+  "title": "Git Basic Concepts",
+  "url":   "/1_SquirrelU/4_GitHub/2_basicConcepts/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "\n"
+}
+,
+
+  "1-squirrelu-4-github-4-gitcli-0-summary": {
+  "title": "Git Command Line Interface",
+  "url":   "/1_SquirrelU/4_GitHub/4_gitCLI/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "\n"
+}
+,
+
+  "1-squirrelu-4-github-3-advancedconcepts-0-summary": {
+  "title": "Git Advanced Concepts",
+  "url":   "/1_SquirrelU/4_GitHub/3_advancedConcepts/0_Summary/",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "\n"
+}
+,
+
+  "1-squirrelu-1-quickstart-0-summary": {
+  "title": "Start Contributing to Squirrel U",
+  "url":   "/1_SquirrelU/1_QuickStart/0_Summary/",
+  "author": "Zippy",
+  "tags": "quick start, steps, guide, contribution",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Start Contributing Today! For Further Reading Introduction Contributing to Squirrel U is as easy as 1…2…3! This..."
+}
+,
+
+  "1-squirrelu-4-github-4-gitcli-1-gitcommandlineinterface": {
+  "title": "Git Command Line Interface",
+  "url":   "/1_SquirrelU/4_GitHub/4_gitCLI/1_GitCommandLineInterface/",
+  "author": "",
+  "tags": "Git, Command Line Interface, cli",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Git Configuration Aliases Git Command Line Interface (CLI) Create a Repository Clone Create 'origin' and 'upstream' Links..."
+}
+,
+
+  "1-squirrelu-4-github-2-basicconcepts-2-concepts": {
+  "title": "Git and GitHub Concepts",
+  "url":   "/1_SquirrelU/4_GitHub/2_basicConcepts/2_Concepts/",
+  "author": "Zippy",
+  "tags": "Git, GitHub, Concepts",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Version Control System Architecture Centralized Distributed Storage Identity Git Structures Git Local Content Cycle For Further Reading..."
+}
+,
+
+  "1-squirrelu-1-quickstart-1-copysquirrelu": {
+  "title": "Create (Fork) Your Copy of Squirrel U",
+  "url":   "/1_SquirrelU/1_QuickStart/1_CopySquirrelU/",
+  "author": "Zippy",
+  "tags": "quick start, contribute, delete fork",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Steps How to Delete a Fork FAQ For Further Reading Introduction SquirrelWorks uses online site called GitHub..."
+}
+,
+
+  "1-squirrelu-4-github-2-basicconcepts-1-distributedmodel": {
+  "title": "The Distributed Model",
+  "url":   "/1_SquirrelU/4_GitHub/2_basicConcepts/1_distributedModel/",
+  "author": "",
+  "tags": "Git, Distribution, Model",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Distributed Model GitHub Workflow Icons For Further Reading Introduction This section provides an overview of the Distributed..."
+}
+,
+
+  "1-squirrelu-4-github-2-basicconcepts-2-squirrelworksworkflowsummary": {
+  "title": "GitHub Workflow Summary",
+  "url":   "/1_SquirrelU/4_GitHub/2_basicConcepts/2_SquirrelWorksWorkflowSummary/",
+  "author": "Zippy",
+  "tags": "Git, GitHub, Workflow, Summary",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Squirrel Works GitHub Repository Model Basic Workflow Setup Workflow Development Workflow Tech Lead Workflow Release Lead Workflow..."
+}
+,
+
+  "1-squirrelu-4-github-2-basicconcepts-3-fetchmergepull": {
+  "title": "Fetch, Merge and Pull",
+  "url":   "/1_SquirrelU/4_GitHub/2_basicConcepts/3_fetchMergePull/",
+  "author": "Poppy",
+  "tags": "Git, GitHub, Fetch, Merge, Pull",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Fetch then Merge Pull Which approach should I use? IntelliJ's \"Update Project\" Update Type Clean working tree..."
+}
+,
+
+  "1-squirrelu-4-github-2-basicconcepts-4-codecommitpush": {
+  "title": "Code, Commit and Push",
+  "url":   "/1_SquirrelU/4_GitHub/2_basicConcepts/4_CodeCommitPush/",
+  "author": "",
+  "tags": "Code, Commit, Push",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Code (and Stage) Commit Push Force Push For Further Reading Introduction This section will walk you through..."
+}
+,
+
+  "1-squirrelu-4-github-2-basicconcepts-5-pullrequestreview": {
+  "title": "Pull Request and Review",
+  "url":   "/1_SquirrelU/4_GitHub/2_basicConcepts/5_PullRequestReview/",
+  "author": "Poppy",
+  "tags": "pull request, comment, review, builder, @mention",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Viewing Pull Requests Create a Pull Request Comparing a Pull Request Commenting on a Pull Request General..."
+}
+,
+
+  "1-squirrelu-4-github-2-basicconcepts-6-approvemerge": {
+  "title": "Resolving Pull Requests",
+  "url":   "/1_SquirrelU/4_GitHub/2_basicConcepts/6_ApproveMerge/",
+  "author": "",
+  "tags": "approve, merge",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Approving a Pull Request Requesting Changes on a Pull Request Closing and Reopening a Pull Request How..."
+}
+,
+
+  "1-squirrelu-3-contributeviaide-1-contributeviaintellij": {
+  "title": "How to Contribute to Squirrel U via IntelliJ",
+  "url":   "/1_SquirrelU/3_ContributeViaIDE/1_ContributeViaIntelliJ/",
+  "author": "Zippy",
+  "tags": "Local SquirrelU, Setup, Jekyll, IntelliJ, Github",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Setup Your Local Jekyll Server Create or Update Squirrel U Content Test on Your Local Server Commit..."
+}
+,
+
+  "1-squirrelu-4-github-1-introtogitandgithub": {
+  "title": "Introduction to Git and GitHub",
+  "url":   "/1_SquirrelU/4_GitHub/1_introToGitAndGitHub/",
+  "author": "",
+  "tags": "Git, GitHub, Introduction",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites What is Git? What is GitHub? Why Git and GitHub? Ease of Use Data Integrity Flexibility Tooling..."
+}
+,
+
+  "1-squirrelu-4-github-3-advancedconcepts-1-managingwork": {
+  "title": "Managing Work",
+  "url":   "/1_SquirrelU/4_GitHub/3_advancedConcepts/1_ManagingWork/",
+  "author": "Zippy",
+  "tags": "Managing, Work, Branch, Stash, Checkout",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Branching Strategy Branches Checkout Feature Branches Example 1: Using Feature branch for your first task Example 2:..."
+}
+,
+
+  "1-squirrelu-4-github-3-advancedconcepts-2-revertingchanges": {
+  "title": "Reverting Changes",
+  "url":   "/1_SquirrelU/4_GitHub/3_advancedConcepts/2_RevertingChanges/",
+  "author": "Zippy",
+  "tags": "GitHub, Revert, Changes, Cherry-pick, Reset",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Undoing What You've Done Revert in GitHub Cherry Picking Reset Reset Type Commit Point Use Local History..."
+}
+,
+
+  "1-squirrelu-4-github-3-advancedconcepts-3-collaborationingit": {
+  "title": "Collaborating with GitHub",
+  "url":   "/1_SquirrelU/4_GitHub/3_advancedConcepts/3_collaborationInGit/",
+  "author": "Squeeks",
+  "tags": "Collaboration",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Setup Steps 1. Add their fork(s) as a new remote 2. Begin collaborating For Further Reading Introduction..."
+}
+,
+
+  "1-squirrelu-2-orientation-3-components": {
+  "title": "Squirrel U&#39;s Development Stack Components",
+  "url":   "/1_SquirrelU/2_Orientation/3_Components/",
+  "author": "Zippy",
+  "tags": "markdown, github pages, jekyll, front matter, liquid, bootstrap",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites GitHub Markdown GitHub Pages Jekyll Rouge Syntax Highlighting Front Matter Liquid Lunr Search Bootstrap and Custom Styling..."
+}
+,
+
+  "1-squirrelu-4-github-4-gitcli-1-practice": {
+  "title": "Practice Working with the Git CLI",
+  "url":   "/1_SquirrelU/4_GitHub/4_gitCLI/1_Practice/",
+  "author": "",
+  "tags": "Git, CLI, Practice",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Fork Lab 2 Implement a feature Commit Merge Pull Request Lab 3: CLI Share with Team (one..."
+}
+,
+
+  "1-squirrelu-2-orientation-2-projectstructure": {
+  "title": "Squirrel U Project Structure",
+  "url":   "/1_SquirrelU/2_Orientation/2_ProjectStructure/",
+  "author": "Zippy",
+  "tags": "Squirrel U, Structure, Directory, Directories, File, Standards, Permalink",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Directory and File Structure Standards _config.yml Smart Quotes Permalink: pretty Option For Further Reading Introduction This section..."
+}
+,
+
+  "1-squirrelu-2-orientation-1-navigation": {
+  "title": "Navigating Squirrel U",
+  "url":   "/1_SquirrelU/2_Orientation/1_Navigation/",
+  "author": "",
+  "tags": "Page, Summary, GitHub, Hierarchy, Directory, Search, Breadcrumb",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Featured Courses Course Summary Page Content Page Convenience Features Breadcrumb Trail Distraction Free Mode Reading Time Table..."
+}
+,
+
+  "": {
+  "title": "",
+  "url":   "/",
+  "author": "",
+  "tags": "Welcome, Squirrel University",
+  "category": "",
+  "excerpt": "Welcome to Squirrel University! Here you will find everything you need to know about developing at Squirrel Works! Check out..."
+}
+,
+
+  "1-squirrelu-1-quickstart-4-requiredmaterials-4-cubeuapprovalchecklist": {
+  "title": "Squirrel U Approval Checklist",
+  "url":   "/1_SquirrelU/1_QuickStart/4_RequiredMaterials/4_CubeUApprovalChecklist/",
+  "author": "Zippy, Poppy, Whiskers",
+  "tags": "guidelines, checklist, standards, requirements",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Standards Guidelines (Things to Consider) For Further Reading Introduction This page contains a summarized checklist of Squirrel..."
+}
+,
+
+  "1-squirrelu-4-github-5-gittools-2-githubwebsite-3-notifications": {
+  "title": "Managing Your Notifications",
+  "url":   "/1_SquirrelU/4_GitHub/5_gitTools/2_GitHubWebsite/3_Notifications/",
+  "author": "",
+  "tags": "Managing, Notifications, GitHub",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites A strategy for cutting down the noise Specify how you want to be notified about GitHub activity..."
+}
+,
+
+  "1-squirrelu-1-quickstart-4-requiredmaterials-3-frontmatter": {
+  "title": "Front Matter Overview",
+  "url":   "/1_SquirrelU/1_QuickStart/4_RequiredMaterials/3_FrontMatter/",
+  "author": "Poppy, Zippy",
+  "tags": "Front Matter",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Example Elements Explained Layout (Required) Title (Required) Breadcrumb (Required) Author (Required) Status (Optional) Category (Not Used) ContentType..."
+}
+,
+
+  "1-squirrelu-1-quickstart-4-requiredmaterials-2-contenttemplate": {
+  "title": "Squirrel U Content Template",
+  "url":   "/1_SquirrelU/1_QuickStart/4_RequiredMaterials/2_ContentTemplate/",
+  "author": "Zippy",
+  "tags": "Page, Template, Content",
+  "category": "",
+  "excerpt": "Copy the template below to your clipboard any time you want to create a new page in Squirrel U. It..."
+}
+,
+
+  "1-squirrelu-1-quickstart-4-requiredmaterials-1-markdown": {
+  "title": "Markdown Overview",
+  "url":   "/1_SquirrelU/1_QuickStart/4_RequiredMaterials/1_Markdown/",
+  "author": "Zippy",
+  "tags": "Code, Syntax Highlighting, Markdown, Rouge, emoji",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Content Basics Italics Bold Links Images Emojis Structuring Content Headers Lists Tables Sentences and Paragraphs Whitespace and..."
+}
+,
+
+  "1-squirrelu-5-nuts-1-acorn": {
+  "title": "Acorns",
+  "url":   "/1_SquirrelU/5_Nuts/1_Acorn/",
+  "author": "zippy",
+  "tags": "nuts, acorn",
+  "category": "",
+  "excerpt": "Contents Introduction Ecological role Dispersal agents Uses Food Making trees Other uses Further Reading Introduction The acorn, or oak nut,..."
+}
+,
+
+  "1-squirrelu-5-nuts-2-othernuts": {
+  "title": "Other Nuts",
+  "url":   "/1_SquirrelU/5_Nuts/2_OtherNuts/",
+  "author": "zippy",
+  "tags": "nuts, walnut, almond",
+  "category": "",
+  "excerpt": "Contents Introduction List of Nuts Further Reading Introduction There are other nuts in the world, tho not as awesome as..."
+}
+,
+
+  "1-squirrelu-5-nuts-3-recipes": {
+  "title": "Recipes",
+  "url":   "/1_SquirrelU/5_Nuts/3_Recipes/",
+  "author": "zippy",
+  "tags": "nut, nuts, acorn, eat, food",
+  "category": "",
+  "excerpt": "Contents Introduction Acorn Preparations Raw! Making flour What to do with that flour Further Reading Introduction Whenever you are ready..."
+}
+,
+
+  "1-squirrelu-1-quickstart-3-pullrequest": {
+  "title": "Submit Squirrel U Content for Approval",
+  "url":   "/1_SquirrelU/1_QuickStart/3_PullRequest/",
+  "author": "Zippy",
+  "tags": "quick start, contribute, approval, review",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Steps FAQ For Further Reading Introduction This section will show you how to send your changes to..."
+}
+,
+
+  "1-squirrelu-1-quickstart-2-createupdatecontent": {
+  "title": "Create or Update Squirrel U Content",
+  "url":   "/1_SquirrelU/1_QuickStart/2_CreateUpdateContent/",
+  "author": "Zippy",
+  "tags": "quick start, contribute, update content, create content, new content, ground",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Update Existing Content Create New Content Save (\"Commit\") Content Test Your Rendered Content How to Keep Your..."
+}
+,
+
+  "1-squirrelu-4-github-5-gittools-1-gitintellij-1-thelog": {
+  "title": "Using the Log",
+  "url":   "/1_SquirrelU/4_GitHub/5_gitTools/1_GitIntelliJ/1_theLog/",
+  "author": "",
+  "tags": "Git, IntelliJ, Log",
+  "category": "",
+  "excerpt": "Contents Introduction Prerequisites Finding the Log Expanding the Roots for Viewing Filter Narrowing Repository Paths Viewing Specific Commit Detail Understanding..."
+}
+,
+
+  "scss-main-css": {
+  "title": "",
+  "url":   "/scss/main.css",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding:..."
+}
+,
+
+  "node-modules-js-yaml-examples-sample-document-yaml": {
+  "title": "",
+  "url":   "/node_modules/js-yaml/examples/sample_document.yaml",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "--- # Collection Types ############################################################# ################################################################################ # http://yaml.org/type/map.html -----------------------------------------------# map: # Unordered set of key: value pairs. Block style: !!map..."
+}
+,
+
+  "search-data-json": {
+  "title": "",
+  "url":   "/search_data.json",
+  "author": "",
+  "tags": "",
+  "category": "",
+  "excerpt": "{ {% for page in site.pages %} \"{{ page.url | slugify }}\": { \"title\": \"{{ page.title | xml_escape }}\", \"url\":..."
+}
+
+
+}

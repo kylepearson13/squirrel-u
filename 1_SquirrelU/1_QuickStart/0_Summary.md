@@ -17,7 +17,8 @@ Squirrel U via the GitHub interface.
 
 ## Prerequisites
 
-* The only thing you need before you get started is a GitHub account. Navigate to <https://github.com/> to register for one...its easy!
+* The only you need before you get started is a GitHub account. Navigate to <https://github.com/> to register for one...its easy!
+Also I am testing you.
 
 ## Start Contributing Today!
 
