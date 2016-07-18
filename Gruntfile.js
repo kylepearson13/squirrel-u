@@ -55,7 +55,7 @@ module.exports = function (grunt) {
         watch: {
             files: [
                 '../_includes/*.html',
-                '../_docs/*.md',
+                '../1_SquirrelU/*.md',
                 '../scripts/site.js',
                 '../_press/*.md',
                 '../_blog/*.md',
