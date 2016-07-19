@@ -11,7 +11,7 @@ tags:           quick start, contribute, update content, create content, new con
 
 {% include toc.html %}
 
-## Introduction
+
 
 This section will give you a quick overview of how to create or update content directly in GitHub.
 
