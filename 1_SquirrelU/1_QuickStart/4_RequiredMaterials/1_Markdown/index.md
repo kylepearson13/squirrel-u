@@ -22,7 +22,7 @@ will help maintain styling and consistency throughout the site.
 
 ## Prerequisites
 
-* None  
+* 
 
 ## Content Basics
 
