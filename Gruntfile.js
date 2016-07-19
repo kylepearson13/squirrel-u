@@ -54,16 +54,7 @@ module.exports = function (grunt) {
         },
         watch: {
             files: [
-                '../_includes/*.html',
-                '../1_SquirrelU/*.md',
-                '../scripts/site.js',
-                '../_press/*.md',
-                '../_blog/*.md',
-                '../_layouts/*.html',
-                '../_posts/*.md',
-                '../css/main.css',
-                '../_config.yml',
-                '../index.html'
+                '1_SquirrelU/*.md'
             ],
             tasks: ['concat', 'uglify', 'cssmin', 'shell:jekyllBuild'],
             options: {
